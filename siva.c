@@ -1,6 +1,10 @@
 void main()
 {
-  printf("hello world");
+  
+}
+void main()
+{
+ printf("hello world");
   printf("sivaramireddy");
 printf("ramadevi");
   printf("nihalreddy");
